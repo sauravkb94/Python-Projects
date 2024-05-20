@@ -41,7 +41,7 @@ To get started with these projects, you will need to have Python installed on yo
 
 This repository includes the following projects:
 
-1. Curreny Converter:
+1. Currency Converter[Currency Converter]():
 2. 
 
 
