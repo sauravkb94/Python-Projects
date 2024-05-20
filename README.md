@@ -29,7 +29,7 @@ To get started with these projects, you will need to have Python installed on yo
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/python-projects.git
+   git clone https://github.com/sauravkb94/Python-Projects.git
    cd python-projects
 
 2. Install the required dependencies for each project (if any) using pip:
